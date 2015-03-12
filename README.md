@@ -8,6 +8,10 @@ The data are not up to date as PFAF as updated some data meanwhile, but the last
 
 Please not that this is not the original version distributed by PFAF as the SQL had some bugs that i've corrected.
 
+![Creative Common BY-SA-NC](http://mirrors.creativecommons.org/presskit/buttons/88x31/png/by-nc-sa.png)
+
 ## French vernacular names
 
 The file 'fr.common.name.sql' contains french vernacular names (used globally or regionally) whose botanical are present in the PFAF database. Coverage is roughlty one quarter of plants in the PFAF database, with a mean of four french name for each covered plant (coverage of english common names is 60% in the PFAF database).
+
+![Creative Common BY-SA-NC](http://mirrors.creativecommons.org/presskit/buttons/88x31/png/by-nc-sa.png)
