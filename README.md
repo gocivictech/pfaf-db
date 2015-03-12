@@ -6,7 +6,7 @@ This repository includes data from the original [PFAF](http://pfaf.org) database
 
 The data are not up to date as PFAF as updated some data meanwhile, but the last version does not seem to be available anymore to the extent of my knowledge. The version is from 2005.
 
-Please not that this is not the original version distributed by PFAF as the SQL had some bugs that i've corrected.
+Please note that this is not the original version distributed by PFAF as the SQL had some bugs that i've corrected.
 
 ![Creative Common BY-SA-NC](https://licensebuttons.net/l/by-nc-sa/3.0/80x15.png)
 
